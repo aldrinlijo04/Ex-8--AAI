@@ -52,7 +52,8 @@ except Exception as e:
 ```
 
 ## OUTPUT:
-![378376556-c96e7b80-8474-43f4-a9e0-8fad643be4f2](https://github.com/user-attachments/assets/f6b62dcf-310c-4308-adfc-ffa914e60142)
+
+![image](https://github.com/user-attachments/assets/93cbb3c1-da27-4bbf-96a7-07b6145d0b77)
 
 ## RESULT:
 Thus, the python program for Speech Recognition is implemented successfully.
